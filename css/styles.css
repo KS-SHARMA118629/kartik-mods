@@ -16,7 +16,7 @@ License: Free to use for personal and commercial, but you need to place back lin
 .blink-text{
     color: red;
     text-align: center;
-    animation: blink 1s ease-in-out infinite;
+    animation: blink 3s ease-in-out infinite;
 }
 
 
